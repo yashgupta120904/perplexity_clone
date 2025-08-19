@@ -1,0 +1,6 @@
+TAVILY_API_KE=
+GEMINI_API_KEY=
+venv/
+server/venv/
+__pycache__/
+*.pyc
