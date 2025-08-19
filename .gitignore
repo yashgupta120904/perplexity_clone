@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -41,3 +42,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+TAVILY_API_KE=
+GEMINI_API_KEY=
+venv/
+server/venv/
+__pycache__/
+*.pyc
+>>>>>>> 2a9c3d3f7dd34e5c839555ebf0e9d0ebd969f216
